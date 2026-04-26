@@ -11,11 +11,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-👉 https://danielstam-taskflow.netlify.app
-
----
 
 ## 📸 Screenshots
 

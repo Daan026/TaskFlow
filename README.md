@@ -11,6 +11,42 @@
 
 ---
 
+## 🚀 Live Demo
+
+👉 **[danielstam-taskflow.netlify.app](https://danielstam-taskflow.netlify.app)**
+
+---
+
+## 🌍 Deployment
+
+De applicatie is volledig gedeployed als een moderne full-stack setup:
+
+| Laag | Platform | |
+|------|----------|-|
+| Frontend | Netlify | [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://netlify.com) |
+| Backend API | Render | [![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://render.com) |
+| Database | Supabase (PostgreSQL) | [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com) |
+
+---
+
+## 🧪 Demo gebruik
+
+1. Maak een account aan of log in
+2. Maak projecten en voeg taken toe
+3. Verplaats taken tussen **Todo / Doing / Done**
+
+---
+
+## ⚠️ Belangrijk
+
+> De backend draait op een gratis tier van Render en kan in slaapstand gaan bij inactiviteit.  
+> De eerste request kan daardoor **30-60 seconden** duren.
+
+---
+
+## 🔗 API
+
+De frontend communiceert met een REST API die authenticatie (JWT) en data-opslag afhandelt via de backend en database.
 
 ## 📸 Screenshots
 
